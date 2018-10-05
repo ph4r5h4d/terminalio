@@ -1,12 +1,10 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "Farshad's weird command line",
+  "description": "Ok this is a fun command line on my website",
   "keywords": [
-    "getting-started",
     "go",
-    "sample",
-    "example"
+    "terminalio"
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "website": "https://farshad.nematdoust.com",
+  "repository": "git@github.com:ph4r5h4d/terminalio.git"
 }
